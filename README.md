@@ -2,17 +2,6 @@
 
 帮助独立开发者赚钱的资源。
 
-## 目录
-
-+   技术类众包平台
-+   综合类众包平台
-+   调查问卷
-+   内容平台
-+   交流平台
-+   博客和媒体
-+   资源清单
-+   短篇
-
 ## 技术类众包平台
 
 *   [TopCoder](https://www.topcoder.com/)
@@ -46,7 +35,7 @@
 *   [趣头条](https://mp.qutoutiao.net)
 *   [众人帮](http://www.jianzhiku.com/)
 *   [有轻功](http://www.youqinggong.com/)
-*   [云队友 - PMCAFF旗下，主要是技术、设计、运营类的远程工作](https://www.nework360.com/) 
+*   [云队友 - PMCAFF 旗下，主要是技术、设计、运营类的远程工作](https://www.nework360.com/) 
 
 ## 调查问卷
 
@@ -113,7 +102,7 @@
 *   [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
-*   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
+*   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
 
 ## 短篇
 
